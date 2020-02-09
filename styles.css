@@ -1,6 +1,6 @@
 .login-form {
-    max-width: 375px;
-    background: black;
+    max-width: 300px;
+    /*background: black;*/
     padding: 25px;
     position: absolute;
     top: 50%;

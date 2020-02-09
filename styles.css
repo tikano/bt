@@ -4,7 +4,7 @@ body {
   font-family: "Roboto", monospace;
   margin-right:auto;
   margin-left: auto;
-  width: 100%;
+  width: 550px;
 }
 
 
@@ -18,7 +18,7 @@ h1 {
 h2 {
   font-size: 15px;
   font-weight: lighter;
-  margin: 2%;
+
   color: red;
 }
 
@@ -67,7 +67,12 @@ h2 {
   color: black;
   font-size: 21px;
   line-height: 55px;
-  margin: 1%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-left:auto;
+  margin-right:auto;
+  justify-content: center;
+  align-items: center;
   text-align: center;
   width: 456px;
   display:inline-block;
